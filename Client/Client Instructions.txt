@@ -1,0 +1,8 @@
+============================Running client instructions=============================
+
+-Download Client.jar.
+-Execute Client.jar by double clicking on it.
+-Enter your desired username.
+-Enter ip and port of the server. (Default port used by server is 5555)
+-Submit using connect button.
+-Client is connected.

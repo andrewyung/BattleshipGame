@@ -1,0 +1,8 @@
+========================Running Server instructions=========================
+
+-Download Server.jar to a directory.
+-Open command prompt.
+-Change directory to where Server.jar is located in command prompt. 
+	Use "cd [directory]".
+-Execute "java -jar Server.jar" in command prompt.
+-Server is now started.
